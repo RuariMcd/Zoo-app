@@ -1,0 +1,4 @@
+Lion,BigDawg,10,Orange,150kg,50cm
+Eagle,Pete,4,White,15kg,50cm
+Lion,Ruari,19,Black,200kg,75cm
+Fish,Goldie,1,Orange,100g,7
